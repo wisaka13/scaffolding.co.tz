@@ -1,0 +1,76 @@
+@media only screen and ( max-width: 966px ) {html body div.wprm-overlay{ background: rgba(0,0,0,0.83) }html body div#wprmenu_bar {
+					height : 42px;
+				}#mg-wprm-wrap.cbp-spmenu-left, #mg-wprm-wrap.cbp-spmenu-right, #mg-widgetmenu-wrap.cbp-spmenu-widget-left, #mg-widgetmenu-wrap.cbp-spmenu-widget-right {
+					top: 42px !important;
+				}
+				#mg-wprm-wrap ul li {
+					border-top: solid 1px rgba(255,255,255,0.05);
+					border-bottom: solid 1px rgba(255,255,255,0.05);
+				}
+				#wprmenu_bar { background-color: #2290d3; }
+				html body div#mg-wprm-wrap .wpr_submit .icon.icon-search {
+					color: #FFFFFF;
+				}
+				#wprmenu_bar .menu_title, #wprmenu_bar .menu_title a, #wprmenu_bar .wprmenu_icon_menu, #wprmenu_bar .wprmenu_icon_menu a {
+					color: #FFFFFF;
+				}
+				#wprmenu_bar .menu_title, #wprmenu_bar .menu_title a {
+					font-size: 20px;
+					font-weight: normal;
+				}
+				#mg-wprm-wrap li.menu-item a {
+					font-size: 15px;
+					text-transform: uppercase;
+					font-weight: normal;
+				}
+				#mg-wprm-wrap li.menu-item-has-children ul.sub-menu a {
+					font-size: 15px;
+					text-transform: uppercase;
+					font-weight: normal;
+				}
+				#mg-wprm-wrap li.current-menu-item > a {
+					color: #191919;
+					background: #f7dd01;
+				}
+				#mg-wprm-wrap, div.wpr_search form {
+					background-color: #191919;
+				}
+				#mg-wprm-wrap, #mg-widgetmenu-wrap {
+					width: 100%;
+					max-width: 400px;
+				}
+				#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a,
+				div#mg-wprm-wrap ul li span.wprmenu_icon, div#mg-wprm-wrap ul li, div#mg-wprm-wrap ul * {
+					color: #FFFFFF;
+				}
+				#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a:hover {
+					background: #f7dd01!important;
+					color: #FFFFFF;
+				}
+				div#mg-wprm-wrap ul>li:hover>span.wprmenu_icon {
+					color: #FFFFFF;
+				}
+
+				.fullwidth-menu.hamburger	.hamburger-inner, .fullwidth-menu.hamburger	.hamburger-inner::before, .fullwidth-menu.hamburger	.hamburger-inner::after { background: #FFFFFF; }
+
+				.wprmenu_bar .hamburger-inner, .wprmenu_bar .hamburger-inner::before, .wprmenu_bar .hamburger-inner::after { background: #FFFFFF; }
+
+				.fullwidth-menu.hamburger:hover .hamburger-inner, .fullwidth-menu.hamburger:hover .hamburger-inner::before,
+			 .fullwidth-menu.hamburger:hover .hamburger-inner::after {
+					background: #FFFFFF;
+				};
+
+				.wprmenu_bar .hamburger:hover .hamburger-inner, .wprmenu_bar .hamburger:hover .hamburger-inner::before,
+			 .wprmenu_bar .hamburger:hover .hamburger-inner::after {
+					background: #FFFFFF;
+				}
+					html body .wprmenu_bar .hamburger {
+						float: right!important;
+					}
+					.wprmenu_bar #custom_menu_icon.hamburger, .wprmenu_bar.custMenu .wpr-custom-menu {
+						top: 0px;
+						right: 0px;
+						float: right !important;
+						background-color: #CCCCCC !important;
+					}body #mg-wprm-wrap *,#wprmenu_bar .menu_title,#wprmenu_bar input, html body body #mg-wprm-wrap a:not(i) {font-family: Arial, Helvetica, sans-serif }#menu-main-menu{ display:none!important; }html { padding-top: 42px!important; }#wprmenu_bar,.wprmenu_bar.custMenu .wpr-custom-menu { display: block!important; }
+			div#wpadminbar { position: fixed; }div#mg-wprm-wrap .wpr_social_icons > a { color: #FFFFFF !important}div#mg-wprm-wrap .wpr_social_icons > a:hover { color: #FFFFFF !important}#wprmenu_bar .menu-elements.search-icon .toggle-search i { color: #FFFFFF !important}#wprmenu_bar .wpr-custom-menu  {float: right;}.wprmenu_bar .wpr-custom-menu i { font-size: 40px !important;  top: -7px !important; color: #FFFFFF}.wprmenu_bar .wpr-widget-menu i { font-size: 28px !important;  top: 0px !important;}.wprmenu_bar .wpr-widget-menu i.wpr_widget_menu_open {color: #FFFFFF!important;}.wprmenu_bar .wpr-widget-menu i.wpr_widget_menu_close {color: #FFFFFF!important;}div.wprm-wrapper #mg-widgetmenu-wrap {background-color: #c82d2d!important;}div.wprm-wrapper #mg-widgetmenu-wrap * {color: #FFFFFF!important;}#mg-wprm-wrap div.wpr_social_icons i {font-size: 16px !important}#wprmenu_bar .menu-elements.search-icon .toggle-search i:hover{color: #FFFFFF !important}#mg-wprm-wrap .wpr_submit i::before {color: #FFFFFF !important }}
